@@ -1,0 +1,1 @@
+This is Spark shell and we will count the word that repeated in this text.
